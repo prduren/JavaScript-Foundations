@@ -101,7 +101,7 @@ function variableInterestRate(p, i, n) {
   }
 }
 
-console.log(variableInterestRate(200000, 0.004, 360));
+console.log(variableInterestRate(200000, 0.004, 350));
 // 🌟🌟🌟 STRETCH 🌟🌟🌟//
 
 /* Attempt any of the stretch goals below once you have finished the work above. Remember as always, these may require additional research beyond what you learned today */
